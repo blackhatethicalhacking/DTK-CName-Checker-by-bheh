@@ -1,6 +1,6 @@
 # DTK - CNAME Checker - Take a list of Subdomain & Check through CNAME if it does not resolve
 
-# Checks Subdomains if CNAME Resolves for DTK - The Pure & Fast Programming Way by BHEH with Color :)
+**Checks Subdomains if CNAME Resolves for DTK - The Pure & Fast Programming Way by BHEH with Color :)
 
 Cname Checker - So after you finished Brute-Forcing using our tool, you want to check if these subdomains can be vulnerable to Domain Take Over,
 and if there are Dangling CNAME, it will check if it resolves otherwise if it does not, it will return a message that it does not, so most probably,

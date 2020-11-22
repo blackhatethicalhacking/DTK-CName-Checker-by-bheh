@@ -10,4 +10,4 @@ while read sub; do
 	fi
     done
 done
- # written by blackhatethicalhacking.com for educational purpose only - blackhatethicalhacking.com.
+ # written by blackhatethicalhacking.com for educational purpose only - blackhatethicalhacking.com 2020

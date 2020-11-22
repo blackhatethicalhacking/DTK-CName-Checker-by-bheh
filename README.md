@@ -1,4 +1,4 @@
-# CName_Checker_bheh
+# DTK - CNAME Checker - Take a list of Subdomain & Check through CNAME if it does not resolve
 
 # Checks Subdomains if CNAME Resolves for DTK - The Pure & Fast Programming Way by BHEH with Color :)
 
